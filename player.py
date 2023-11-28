@@ -11,8 +11,10 @@ class Player:
     
     def get_id(self):
         return self.id
+    
     def get_name(self):
         return self.name
+    
     def get_hand(self):
         return self.hand
     
